@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    margin: 0px;
+
+}
+.note{
+    color: red;
+    font-size: x-large;
+}
+Canvas{
+    border-style: solid;
+}
+.Footer{
+    position: absolute;
+    background-color: grey;
+    line-height:3;
+    bottom:0px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
